@@ -5,7 +5,7 @@ public class Basic {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number you want to reverse:");
         int num = sc.nextInt();
-        int rev = 0;
+        int rev = 0; 
 
         while (num > 0) { 
             int lastDigit = num % 10; //This gives the last digit.
