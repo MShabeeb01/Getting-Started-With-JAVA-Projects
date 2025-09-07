@@ -6,7 +6,7 @@ Basic Java Projects:
    Simple Java program that checks whether a user-input number is odd or even.
 
 2. **Income Tax Calculator**  
-   Java CLI tool that calculates tax based on income slabs using conditional logic.
+   Java CLI(Command Line Interface) tool that calculates tax based on income slabs using conditional logic.
 
 3. **Sum of Natural Numbers**  
    Java program that calculates the sum of the first `n` natural numbers using a loop.
